@@ -1,4 +1,4 @@
-package life.shapingba.community;
+package life.mashangwenda.community;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

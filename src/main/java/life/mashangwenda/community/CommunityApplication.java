@@ -1,4 +1,4 @@
-package life.shapingba.community;
+package life.mashangwenda.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
